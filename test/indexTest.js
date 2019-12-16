@@ -295,7 +295,6 @@ describe('index.js', function () {
       expect(false).to.equal(true)
     })
   })
-
 })
 
 function arraysEqual(arrA, arrB) {
